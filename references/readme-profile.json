@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 205｜Warm Organic Photo and Line Collage: crops a photo's subject into one small rounded, irregular organic shape that keeps some real photographic texture, then overlays fine, light hand-drawn line work or outline illustration that can cross the subject, run into the whitespace or break past the crop edge, with only a few tiny hand-drawn symbols, colour patches or everyday details as echoes. Warm white, cream, oat, light camel and sand set a calm base, coffee brown, deep olive or ink grey add a little weight, and one terracotta, salmon or muted coral accent lifts it; the subject stays small in generous whitespace with a few thin, magazine-style words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-205 or asks for warm lifestyle editorial collage, organic-shape photo crops with line drawing, or mixed photo-and-illustration layouts from a photo.",
+  "short_description": "暖调有机形摄影拼贴：把照片裁成一块圆润有机形，叠上纤细手绘线稿，暖调低饱和，一处陶土橘",
+  "zh-CN": {
+    "name": "暖调有机形摄影拼贴",
+    "tagline": "把照片裁成一块圆润的有机形，叠上纤细的手绘线稿，配暖调和一点陶土橘。",
+    "look": "照片主体被裁成一块圆润、不规则的有机形，保留一部分真实影像质感，上面叠加纤细轻盈的手绘线稿或轮廓插画；线条可以穿过主体、延伸到留白或越出裁切边。周围只有极少的小手绘符号、色块或生活细节作呼应。底色是暖白、奶油白、燕麦米、浅驼、沙色，用咖啡棕、深橄榄或墨灰少量压住，再点一处陶土橘或柔和的鲑鱼橘。主体偏小，大片留白，几行细瘦的杂志感小字排在留白、主体边缘或有机形之间。",
+    "traits": [
+      "有机形裁切",
+      "照片叠线稿",
+      "轻量拼贴",
+      "暖调低饱和",
+      "一处暖橘"
+    ],
+    "good": [
+      "生活方式场景：咖啡杯、餐桌一角、窗边的人、一束花",
+      "人物和宠物的日常照：散步、遛狗、读书",
+      "想做生活方式品牌、杂志内页或社交配图的照片"
+    ],
+    "poor": [
+      "色调冷峻或饱和度很高、想保留原色的照片，结果会转成暖调低饱和",
+      "需要完整呈现、不能裁成有机形的照片：证件照、全景合影",
+      "想要满版拼贴、硬矩形框或贴纸堆叠的需求"
+    ]
+  },
+  "en": {
+    "name": "Warm Organic Photo and Line Collage",
+    "tagline": "Crops a photo into a rounded organic shape with fine hand-drawn lines, warm tones and a terracotta accent.",
+    "look": "The subject of your photo is cut into a rounded, irregular organic shape that keeps some of the real photo texture, with fine, light hand-drawn line work or outline illustration laid over it; the lines can cross the subject, run out into the whitespace or go past the cut edge. Around it are only a few tiny hand-drawn symbols, colour patches or everyday details as echoes. The base is warm white, cream, oat, light camel and sand, held down here and there by coffee brown, deep olive or ink grey, with one spot of terracotta or soft salmon orange. The subject is small, the whitespace wide, and a few thin, magazine-style lines of text sit in the whitespace, along the subject's edge or between the organic shapes.",
+    "traits": [
+      "Organic-shape crop",
+      "Photo plus line art",
+      "Light collage",
+      "Warm muted palette",
+      "One warm orange accent"
+    ],
+    "good": [
+      "Lifestyle scenes: a coffee cup, the corner of a dining table, someone by a window, a bunch of flowers",
+      "Everyday photos of people and pets: a walk, walking the dog, reading",
+      "Photos you want for a lifestyle brand, magazine page or social media post"
+    ],
+    "poor": [
+      "Cold-toned or highly saturated photos whose colours you want to keep, since the result turns warm and muted",
+      "Photos that must appear whole and cannot be cut into an organic shape: ID photos, wide group shots",
+      "Requests for full-frame collage, hard rectangular frames or piles of stickers"
+    ]
+  },
+  "ja": {
+    "name": "暖色の有機形写真コラージュ",
+    "tagline": "写真を丸みのある有機形に切り抜き、細い手描きの線を重ね、暖色とテラコッタを一点添えます。",
+    "look": "写真の主役を丸みのある不規則な有機形に切り抜き、実写の質感を一部残したまま、細く軽やかな手描きの線画や輪郭のイラストを重ねます。線は主役を横切ったり、余白へ伸びたり、切り抜きの縁を越えたりしてもかまいません。周りには小さな手描きの記号、色面、暮らしの細部がわずかに呼応するだけです。地は温かな白、クリーム白、オートミール、淡いキャメル、砂色で、コーヒーブラウン、深いオリーブ、墨のようなグレーで少しだけ締め、テラコッタや柔らかなサーモンオレンジを一か所に差します。主役は小さめで余白は広く、細身の雑誌風の文字を数行、余白、主役の縁、有機形の間に置きます。",
+    "traits": [
+      "有機形の切り抜き",
+      "写真に線画を重ねる",
+      "軽いコラージュ",
+      "暖色の低彩度",
+      "一点の暖かな橙"
+    ],
+    "good": [
+      "ライフスタイルの場面：コーヒーカップ、食卓の一角、窓辺の人、花束",
+      "人やペットの日常写真：散歩、犬の散歩、読書",
+      "ライフスタイルブランド、雑誌のページ、SNS の画像にしたい写真"
+    ],
+    "poor": [
+      "寒色や高彩度の色をそのまま残したい写真（仕上がりは暖色の低彩度になります）",
+      "全体をそのまま見せる必要があり、有機形に切り抜けない写真：証明写真、横長の集合写真",
+      "全面のコラージュ、硬い長方形の枠、ステッカーの重ね貼りを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "따뜻한 유기형 사진 선화 콜라주",
+    "tagline": "사진을 둥근 유기형으로 잘라 가는 손그림 선을 겹치고, 따뜻한 색에 테라코타 한 점을 더합니다.",
+    "look": "사진의 주인공을 둥글고 불규칙한 유기형으로 잘라 실제 사진의 질감을 일부 남긴 채, 가늘고 가벼운 손그림 선화나 윤곽 일러스트를 겹칩니다. 선은 주인공을 가로지르거나 여백으로 뻗거나 잘린 가장자리를 넘어도 됩니다. 둘레에는 작은 손그림 기호, 색면, 생활 디테일이 아주 조금 호응할 뿐입니다. 바탕은 따뜻한 흰색, 크림색, 귀리색, 연한 카멜, 모래색이고 커피 브라운, 짙은 올리브, 먹회색으로 조금만 누르며, 테라코타나 부드러운 연어색 주황을 한 곳에 찍습니다. 주인공은 작고 여백은 넓으며, 가는 잡지풍 글자 몇 줄을 여백, 주인공 가장자리, 유기형 사이에 둡니다.",
+    "traits": [
+      "유기형 크롭",
+      "사진 위 선화",
+      "가벼운 콜라주",
+      "따뜻한 저채도",
+      "따뜻한 주황 한 점"
+    ],
+    "good": [
+      "라이프스타일 장면: 커피잔, 식탁 한쪽, 창가의 사람, 꽃다발",
+      "사람과 반려동물의 일상 사진: 산책, 강아지 산책, 독서",
+      "라이프스타일 브랜드, 잡지 지면, SNS 이미지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "차가운 색조나 고채도 색을 그대로 지키고 싶은 사진(결과는 따뜻한 저채도로 바뀝니다)",
+      "온전히 보여야 해서 유기형으로 자를 수 없는 사진: 증명사진, 가로로 긴 단체 사진",
+      "꽉 찬 콜라주, 딱딱한 직사각형 틀, 스티커를 겹겹이 붙인 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج صور وخطوط بأشكال عضوية دافئة",
+    "tagline": "يقتطع الصورة في شكل عضوي مستدير، ويضع فوقها خطوطاً يدوية رفيعة، مع درجات دافئة ولمسة من لون التيراكوتا.",
+    "look": "يُقص عنصر صورتك في شكل عضوي مستدير غير منتظم يحتفظ بشيء من ملمس الصورة الحقيقي، ويُوضع فوقه رسم خطي يدوي رفيع خفيف أو رسم لحدوده؛ ويمكن للخطوط أن تعبر العنصر أو تمتد إلى الفراغ أو تتجاوز حافة القص. لا يحيط به إلا قليل من الرموز اليدوية الصغيرة أو البقع اللونية أو تفاصيل الحياة اليومية صدىً له. الأرضية أبيض دافئ وكريمي ولون الشوفان وجملي فاتح ورملي، يثبّتها هنا وهناك بني قهوة أو زيتوني داكن أو رمادي حبري، مع بقعة واحدة من التيراكوتا أو البرتقالي السلموني الناعم. العنصر صغير والفراغ واسع، وتستقر أسطر قليلة رفيعة بروح المجلات في الفراغ أو على حافة العنصر أو بين الأشكال العضوية.",
+    "traits": [
+      "قص بشكل عضوي",
+      "صورة مع رسم خطي",
+      "كولاج خفيف",
+      "ألوان دافئة هادئة",
+      "لمسة برتقالية دافئة واحدة"
+    ],
+    "good": [
+      "مشاهد أسلوب الحياة: فنجان قهوة، ركن مائدة، شخص قرب نافذة، باقة زهور",
+      "صور يومية لأشخاص وحيوانات أليفة: نزهة، تمشية الكلب، القراءة",
+      "صور تريدها لعلامة أسلوب حياة أو صفحة مجلة أو منشور على وسائل التواصل"
+    ],
+    "poor": [
+      "صور باردة الدرجات أو شديدة التشبع تريد الاحتفاظ بألوانها، لأن النتيجة تصبح دافئة هادئة",
+      "صور يجب أن تظهر كاملة ولا يمكن قصها في شكل عضوي: صور الهوية، الصور الجماعية العريضة",
+      "طلب كولاج يملأ الإطار أو إطارات مستطيلة حادة أو أكوام من الملصقات"
+    ]
+  }
+}
